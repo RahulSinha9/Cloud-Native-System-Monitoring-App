@@ -1,5 +1,5 @@
 # Cloud-Native-System-Monitoring-App
-In this project i created the system monitoring app using flask and then containerize a Python application using docker and  also use the Amazon Elastic Kubernetes Service  to deployment the app on AWS (Cloud)
+ I developed a Flask-based system monitoring application, containerized it with Docker, and orchestrated deployment on Amazon Elastic Kubernetes Service (EKS) within the AWS Cloud environment.
 
 
 (Things to have before starting the projects)
